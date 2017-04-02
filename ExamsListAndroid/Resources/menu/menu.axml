@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item
+		android:id="@+id/pending"
+		android:showAsAction="always"/>
+	<item
+		android:id="@+id/logout"
+		android:title="@string/Logout"
+		android:showAsAction="never"/>
+	<item 
+		android:id="@+id/refresh"
+		android:title="@string/Refresh"
+		android:showAsAction="never" />
+	
+	
+</menu>

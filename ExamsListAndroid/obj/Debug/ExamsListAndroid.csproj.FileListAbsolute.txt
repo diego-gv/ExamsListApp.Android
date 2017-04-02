@@ -1,0 +1,76 @@
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/bin/Debug/ExamsListAndroid.dll
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/bin/Debug/ExamsListAndroid.pdb
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/bin/Debug/ExamsListAndroid.ExamsListAndroid.apk
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/bin/Debug/ExamsListAndroid.ExamsListAndroid-Signed.apk
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/obj/Debug/ExamsListAndroid.dll
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/obj/Debug/ExamsListAndroid.pdb
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/obj/Debug/android/bin/ExamsListAndroid.ExamsListAndroid.apk
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/obj/Debug/res/layout/examrow.xml
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/obj/Debug/res/layout/examdetails.xml
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/obj/Debug/res/layout/main.xml
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/obj/Debug/res/layout/question.xml
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/obj/Debug/res/values/strings.xml
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/obj/Debug/res/drawable/icon.png
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/obj/Debug/R.cs.flag
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/obj/Debug/uploadflags.txt
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/bin/Debug/ExamsListAndroid.dll.mdb
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/bin/Debug/Java.Interop.dll.mdb
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/bin/Debug/Microsoft.CSharp.dll.mdb
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/bin/Debug/Mono.Android.dll.mdb
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/bin/Debug/Mono.CSharp.dll.mdb
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/bin/Debug/mscorlib.dll.mdb
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/bin/Debug/System.ComponentModel.Composition.dll.mdb
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/bin/Debug/System.Core.dll.mdb
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/bin/Debug/System.dll.mdb
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/bin/Debug/System.Net.Http.dll.mdb
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/bin/Debug/System.Runtime.Serialization.dll.mdb
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/bin/Debug/System.ServiceModel.Internals.dll.mdb
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/bin/Debug/System.Xml.dll.mdb
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/bin/Debug/System.Xml.Linq.dll.mdb
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/obj/Debug/android/assets/ExamsListAndroid.dll.mdb
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/obj/Debug/android/assets/Java.Interop.dll.mdb
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/obj/Debug/android/assets/Microsoft.CSharp.dll.mdb
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/obj/Debug/android/assets/Mono.Android.dll.mdb
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/obj/Debug/android/assets/Mono.CSharp.dll.mdb
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/obj/Debug/android/assets/mscorlib.dll.mdb
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/obj/Debug/android/assets/System.ComponentModel.Composition.dll.mdb
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/obj/Debug/android/assets/System.Core.dll.mdb
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/obj/Debug/android/assets/System.dll.mdb
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/obj/Debug/android/assets/System.Net.Http.dll.mdb
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/obj/Debug/android/assets/System.Runtime.Serialization.dll.mdb
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/obj/Debug/android/assets/System.ServiceModel.Internals.dll.mdb
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/obj/Debug/android/assets/System.Xml.dll.mdb
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/obj/Debug/android/assets/System.Xml.Linq.dll.mdb
+C:/Users/practicas/documents/visual studio 2015/Projects/ExamsListAndroid/ExamsListAndroid/obj/Debug/ExamsListAndroid.dll.mdb
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/bin/Debug/ExamsListAndroid.dll
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/bin/Debug/ExamsListAndroid.dll.mdb
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/bin/Debug/ExamsListAndroid.ExamsListAndroid.apk
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/bin/Debug/ExamsListAndroid.ExamsListAndroid-Signed.apk
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/bin/Debug/Newtonsoft.Json.dll
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/bin/Debug/RestSharp.dll
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/bin/Debug/SQLite-net.dll
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/bin/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/bin/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/bin/Debug/SQLitePCLRaw.core.dll
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/bin/Debug/SQLitePCLRaw.lib.e_sqlite3.dll
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/bin/Debug/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/bin/Debug/SQLite-net.dll.mdb
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/bin/Debug/SQLite-net.xml
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/bin/Debug/RestSharp.xml
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/bin/Debug/Newtonsoft.Json.xml
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/obj/Debug/ExamsListAndroid.csprojResolveAssemblyReference.cache
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/obj/Debug/ExamsListAndroid.dll
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/obj/Debug/ExamsListAndroid.dll.mdb
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/obj/Debug/android/bin/ExamsListAndroid.ExamsListAndroid.apk
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/obj/Debug/res/layout/examrowlayout.xml
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/obj/Debug/res/layout/examdetailslayout.xml
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/obj/Debug/res/layout/mainlayout.xml
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/obj/Debug/res/layout/questionlayout.xml
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/obj/Debug/res/menu/menu.xml
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/obj/Debug/res/layout/loginlayout.xml
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/obj/Debug/res/layout/fragment.xml
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/obj/Debug/res/layout/finishexamlayout.xml
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/obj/Debug/res/values/strings.xml
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/obj/Debug/res/drawable/icon.png
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/obj/Debug/R.cs.flag
+/Users/diegogarvi/Desktop/ExamsListAndroid/ExamsListAndroid/obj/Debug/uploadflags.txt

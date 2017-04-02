@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="ExamsListAndroid.ExamsListAndroid" android:versionCode="1" android:versionName="1.0">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="16" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <application android:label="ExamsList" android:name="android.app.Application" android:allowBackup="true">
+    <activity android:label="ExamDetails" android:name="md55b5d186084d19538c73e2dc75efd9909.ExamDetailsActivity" />
+    <activity android:label="ExamList" android:name="md55b5d186084d19538c73e2dc75efd9909.ExamListActivity" />
+    <activity android:label="Questions" android:name="md55b5d186084d19538c73e2dc75efd9909.QuestionActivity" />
+    <activity android:icon="@drawable/icon" android:label="Login" android:name="md55b5d186084d19538c73e2dc75efd9909.LoginActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <provider android:authorities="examslistandroid.examslistandroid.ExamProvider" android:name="examslistandroid.examslistandroid.ExamContentProvider" />
+    <provider android:authorities="examslistandroid.examslistandroid.QuestionProvider" android:name="examslistandroid.examslistandroid.QuestionContentProvider" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="ExamsListAndroid.ExamsListAndroid.mono.MonoRuntimeProvider.__mono_init__" />
+  </application>
+</manifest>
